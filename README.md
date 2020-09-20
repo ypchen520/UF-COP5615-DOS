@@ -1,2 +1,2 @@
-# UF-COP5615-DS
+# UF-COP5615-DOS
 Introduction to Distributed System at UF
