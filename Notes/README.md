@@ -17,6 +17,14 @@
 
 # Report
   * Size of the work unit
+    * __Number of workers: 8__
+    * Size of work unit is decided by __dividing N by 8 (Number of workers)__, and the remainder goes to the last worker
+      * For example, when N = 100, 100/8 = 
+        * Worker 1 gets the tasks starting with _1 to 12_
+        * Worker 2 gets the tasks starting with _13 to 24_
+        * ...
+        * Worker 7 gets the tasks starting with _73 to 84_
+        * Worker 8 gets the tasks starting with _85 to 96_ plus the tasks starting with _97 to 100_
   * The result of running this program for ```dotnet fsi --langversion:preview proj1.fsx 1000000 4```
   * The running time
   * The largest problem I managed to solve
