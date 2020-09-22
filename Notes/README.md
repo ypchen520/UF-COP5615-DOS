@@ -27,12 +27,12 @@
         * worker 8 gets the tasks starting with _85 to 96_ plus the tasks starting with _97 to 100_
   * The result of running this program for ```dotnet fsi --langversion:preview proj1.fsx 1000000 4```
     * __Found nothing__ for N = 1000000, k = 4
-    * ![Image]()
+    * ![Result]()
   * The running time of running this program for ```dotnet fsi --langversion:preview proj1.fsx 1000000 4```
-    * Type | time
-    -------------|-------------
-    real | 0m5.229s
-    user | 0m6.251s
+    * Type | Time  
+    -------------|-------------  
+    real | 0m5.229s  
+    user | 0m6.251s  
     sys | 0m0.521s	
   * The largest problem I managed to solve
     * ```dotnet fsi --langversion:preview proj1.fsx 100000000 2```
