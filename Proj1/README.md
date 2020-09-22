@@ -29,6 +29,7 @@
   * The result of running this program for ```dotnet fsi --langversion:preview proj1.fsx 1000000 4```
     * __Found nothing__ for N = 1000000, k = 4
     * ![Result](https://github.com/ypchen520/UF-COP5615-DOS/blob/master/Images/result-1000000-4.png)
+
   * The running time of running this program for ```dotnet fsi --langversion:preview proj1.fsx 1000000 4```
     * | Type | Time |
       | ---- | ---- |
