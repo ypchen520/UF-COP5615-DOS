@@ -28,8 +28,8 @@
   * The result of running this program for ```dotnet fsi --langversion:preview proj1.fsx 1000000 4```
     * __Found nothing__ for N = 1000000, k = 4
     * ![Image]()
-  * The running time of running this program for ```dotnet fsi --langversion:preview proj1.fsx 1000000 4```  
-     Time |
+  * The running time of running this program for ```dotnet fsi --langversion:preview proj1.fsx 1000000 4```
+    * Type | time
     -------------|-------------
     real | 0m5.229s
     user | 0m6.251s
