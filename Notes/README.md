@@ -34,8 +34,12 @@
       | real | 0m5.229s |
       | user | 0m6.251s |
       | sys  | 0m0.521s |
+    * See above image
+    * *CPU time* to *real time* ratio = 1.2
   * The largest problem I managed to solve
     * ```dotnet fsi --langversion:preview proj1.fsx 100000000 2```
+    * ![Result]()
+    * *CPU time* to *real time* ratio = 2.2
 
 # Bonus
   * :dizzy_face: :exploding_head: :mask:
