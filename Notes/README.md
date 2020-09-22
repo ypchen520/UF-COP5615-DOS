@@ -29,11 +29,11 @@
     * __Found nothing__ for N = 1000000, k = 4
     * ![Result]()
   * The running time of running this program for ```dotnet fsi --langversion:preview proj1.fsx 1000000 4```
-    * Type | Time  
-    ------ | -------  
-    real | 0m5.229s  
-    user | 0m6.251s  
-    sys | 0m0.521s	
+    * | Type | Time |
+      | ---- | ---- |
+      | real | 0m5.229s |
+      | user | 0m6.251s |
+      | sys  | 0m0.521s |
   * The largest problem I managed to solve
     * ```dotnet fsi --langversion:preview proj1.fsx 100000000 2```
 
