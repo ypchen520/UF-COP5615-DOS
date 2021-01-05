@@ -1,0 +1,19 @@
+[Initialize]
+[Register]
+[Connect]
+[FirstConnect]
+[Subscribe]
+Subscribing to user25
+[Subscribe]
+Subscribing to user25
+[Tweet(plain)]
+[Tweet(plain)]
+[Tweet(plain)]
+<user25> Stay safe [Signed by user25]
+<user25> Stay safe [Signed by user25]
+<user25> Black life matters #BLM  [Signed by user25]
+<user25> Black life matters #BLM  [Signed by user25]
+[Query(Hashtag)]
+#COP5615
+[QueryHashtagRes]
+<user30> But, #COP5615 is challenging [Signed by user30]

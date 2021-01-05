@@ -1,0 +1,8 @@
+[Initialize]
+[Register]
+[Connect]
+[FirstConnect]
+[Tweet(Hashtag)]
+[Tweet(Mention)]
+Mentioning: user4
+<user3> Let's fight for racial equality! @user15  [Signed by user3]

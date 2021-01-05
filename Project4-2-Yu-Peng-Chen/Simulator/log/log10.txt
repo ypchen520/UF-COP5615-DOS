@@ -1,0 +1,13 @@
+[Initialize]
+[Register]
+[Connect]
+[FirstConnect]
+[Tweet(plain)]
+[Tweet(plain)]
+[Query(Hashtag)]
+#COP5615
+[QueryHashtagRes]
+<user30> But, #COP5615 is challenging [Signed by user30]
+[Query(Mentioned)]
+[QueryMentionedRes]
+User not mentioned yet!

@@ -1,0 +1,8 @@
+/home/yupeng/FALL2020/COP5615/UF-COP5615-DOS/Proj4-2/server/bin/Debug/netstandard2.1/server.deps.json
+/home/yupeng/FALL2020/COP5615/UF-COP5615-DOS/Proj4-2/server/bin/Debug/netstandard2.1/server.dll
+/home/yupeng/FALL2020/COP5615/UF-COP5615-DOS/Proj4-2/server/bin/Debug/netstandard2.1/server.pdb
+/home/yupeng/FALL2020/COP5615/UF-COP5615-DOS/Proj4-2/server/obj/Debug/netstandard2.1/server.fsprojAssemblyReference.cache
+/home/yupeng/FALL2020/COP5615/UF-COP5615-DOS/Proj4-2/server/obj/Debug/netstandard2.1/server.AssemblyInfoInputs.cache
+/home/yupeng/FALL2020/COP5615/UF-COP5615-DOS/Proj4-2/server/obj/Debug/netstandard2.1/server.AssemblyInfo.fs
+/home/yupeng/FALL2020/COP5615/UF-COP5615-DOS/Proj4-2/server/obj/Debug/netstandard2.1/server.dll
+/home/yupeng/FALL2020/COP5615/UF-COP5615-DOS/Proj4-2/server/obj/Debug/netstandard2.1/server.pdb
